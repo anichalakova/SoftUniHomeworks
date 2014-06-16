@@ -1,0 +1,8 @@
+﻿developer@dev:~$ cd Documents/JavaMay2014/src/
+developer@dev:~/Documents/JavaMay2014/src$ javac SumTwoNumbers.java 
+developer@dev:~/Documents/JavaMay2014/src$ java SumTwoNumbers 
+Enter two integer numbers:
+7
+9
+Sum of the numbers is 16
+developer@dev:~/Documents/JavaMay2014/src$
